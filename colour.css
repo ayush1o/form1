@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: whitesmoke ;
+    background-color: darkgreen;
+    text-align: center;
+    height: 200px;
+}
+h2{
+    color: #FAF8F1;
+    background-color: #C58940;
+    text-align: center;
+    height: 100px;
+}
+H3{
+    
+    color: whitesmoke ;
+    background-color:rgb(151, 124, 70);
+    text-align: center;
+    height: 200px;
+}
+h4{
+   height= 350; 
+}
